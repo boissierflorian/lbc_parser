@@ -1,0 +1,28 @@
+{
+    "email" : {
+        "from" : "",
+        "password" : "",
+        "to" : "",
+        "title" : "[LBC Service] - Annonce"
+    },
+    "search" : {
+        "props" : {
+            "timer" : 1,
+            "limit" : -1,
+            "acceptDaysBeforeToday" : 7  
+        },
+
+        "criteria" : {
+            "location" : {
+                "zipcodes" : [
+                    "59000",
+                    "59800"
+                ]
+            },
+            "price" : {
+                "min" : 550,
+                "max" : 800
+            }
+        }
+    }
+}

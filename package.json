@@ -1,0 +1,18 @@
+{
+  "name": "leboncoin",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Boissier Florian",
+  "private": true,
+  "license": "ISC",
+  "dependencies": {
+    "leboncoin-api": "0.0.31",
+    "mongoose": "^5.2.12",
+    "nodemailer": "^4.6.8",
+    "thread-sleep": "^2.1.0"
+  }
+}
