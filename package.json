@@ -7,8 +7,7 @@
     "start": "node index.js"
   },
   "author": "Boissier Florian",
-  "private": true,
-  "license": "ISC",
+  "license": "GNU GPL v3",
   "dependencies": {
     "leboncoin-api": "0.0.31",
     "mongoose": "^5.2.12",
